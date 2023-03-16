@@ -32,11 +32,11 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web and mobile applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Fintech.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I take challenges on [HackerRank](hackerrank.com), read tech articles and play sports.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-huytran-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tr%E1%BA%A7n-huy-613438181/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-huytran-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tr%E1%BA%A7n-huy-613438181/)
 
 ---
 
